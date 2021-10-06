@@ -1,0 +1,62 @@
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.csproj.AssemblyReference.cache
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\App.g.cs
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard_MarkupCompile.cache
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard_MarkupCompile.lref
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.exe
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.deps.json
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.runtimeconfig.json
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.runtimeconfig.dev.json
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\ref\Macros Keyboard.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.pdb
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\MainWindow.baml
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.g.resources
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.AssemblyInfoInputs.cache
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.AssemblyInfo.cs
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.csproj.CoreCompileInputs.cache
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.csproj.CopyComplete
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\ref\Macros Keyboard.dll
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.pdb
+D:\google drive\Projects\.net\Macros Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.genruntimeconfig.cache
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.exe
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.deps.json
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.runtimeconfig.json
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.runtimeconfig.dev.json
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\ref\Macros Keyboard.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\Macros Keyboard.pdb
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.csproj.AssemblyReference.cache
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\App.g.cs
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard_MarkupCompile.cache
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard_MarkupCompile.lref
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\MainWindow.baml
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.g.resources
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.AssemblyInfoInputs.cache
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.AssemblyInfo.cs
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.csproj.CoreCompileInputs.cache
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.csproj.CopyComplete
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\ref\Macros Keyboard.dll
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.pdb
+D:\GitHub\Macros_Keyboard\Macros Keyboard\obj\Debug\net5.0-windows\Macros Keyboard.genruntimeconfig.cache
